@@ -8,7 +8,7 @@ class add
 void add::add1()
 {
 cout<<"\n WELCOME";
-
+cout<<"substraction is : ";
 
 }
 
@@ -18,3 +18,4 @@ add.obj;
 
 obj.add1();
 }
+
